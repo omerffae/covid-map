@@ -2,6 +2,8 @@
 
 COVID-19 verilerini görselleştiren interaktif bir web uygulaması. Dünya haritası üzerinde ülke bazlı COVID-19 istatistiklerini gösterir ve detaylı analizler sunar.
 
+![Proje Görseli](/public/covid_map.gif)  
+
 ## ✨ Özellikler
 
 - 🌐 **İnteraktif Dünya Haritası**: React Simple Maps ile oluşturulmuş interaktif harita
